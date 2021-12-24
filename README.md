@@ -13,4 +13,4 @@ supported by the module loader.
 array elements, num is an integer variable, and perm is the usual permissions value.
 
 ## Exporting Kernel Symbol
-**macro used EXPORT_SYMBOL(function name)
+**macro used EXPORT_SYMBOL(function name)**
