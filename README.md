@@ -11,3 +11,6 @@ supported by the module loader.
 
 -name is the name of your array (and of the parameter), type is the type of the
 array elements, num is an integer variable, and perm is the usual permissions value.
+
+## Exporting Kernel Symbol
+**macro used EXPORT_SYMBOL(function name)
